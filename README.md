@@ -6,5 +6,5 @@ You can access Reddit Diet on the web at [redditdiet.zequez.com](https://redditd
 kindly statically hosted by Github Pages.
 
 You'll need to install the
-[Reddit Diet Browser Extension](https://chrome.google.com/webstore/detail/daknhmbmnikajlilbdcecibhcnkpbgoc/publish-accepted)
+[Reddit Diet Browser Extension](https://chrome.google.com/webstore/detail/daknhmbmnikajlilbdcecibhcnkpbgoc)
 for the app to be able to embed Reddit post.
